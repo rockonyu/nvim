@@ -2,10 +2,9 @@
 
 ```zsh
 # 備份當前設定
-$ mv ~/.vim ~/.vim.bak
-$ mv ~/.vimrc ~/.vimrc.bak
+$ mv ~/.config/nvim ~/.config/nvim.bak
 
-$ git clone git@github.com:rockonyu/.vim.git ~/.config/nvim
+$ git clone git@github.com:rockonyu/nvim.git ~/.config/nvim
 ```
 
 ## 參考
