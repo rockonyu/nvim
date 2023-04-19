@@ -13,6 +13,7 @@ call plug#begin()
   Plug 'ryanoasis/vim-devicons'
   Plug 'tpope/vim-fugitive' " 在 vim 模式下使用 Git 指令
   Plug 'tpope/vim-surround'
+  Plug 'unkiwii/vim-nerdtree-sync'
   Plug 'vim-airline/vim-airline'
   Plug 'vim-airline/vim-airline-themes'
 
