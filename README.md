@@ -12,3 +12,4 @@ $ git clone git@github.com:rockonyu/nvim.git ~/.config/nvim
 * https://github.com/kaochenlong/cch
 * https://gist.github.com/benawad/b768f5a5bbd92c8baabd363b7e79786f
   * https://www.youtube.com/watch?v=gnupOrSEikQ
+* https://dev.to/craftzdog/my-neovim-setup-for-react-typescript-tailwind-css-etc-58fb
